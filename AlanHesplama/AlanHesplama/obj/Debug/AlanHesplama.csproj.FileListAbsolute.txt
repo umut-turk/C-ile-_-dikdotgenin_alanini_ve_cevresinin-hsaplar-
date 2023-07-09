@@ -1,0 +1,8 @@
+C:\Users\UMUT TÜRK\Desktop\banka\AlanHesplama\AlanHesplama\bin\Debug\AlanHesplama.exe.config
+C:\Users\UMUT TÜRK\Desktop\banka\AlanHesplama\AlanHesplama\bin\Debug\AlanHesplama.exe
+C:\Users\UMUT TÜRK\Desktop\banka\AlanHesplama\AlanHesplama\bin\Debug\AlanHesplama.pdb
+C:\Users\UMUT TÜRK\Desktop\banka\AlanHesplama\AlanHesplama\obj\Debug\AlanHesplama.csproj.AssemblyReference.cache
+C:\Users\UMUT TÜRK\Desktop\banka\AlanHesplama\AlanHesplama\obj\Debug\AlanHesplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\UMUT TÜRK\Desktop\banka\AlanHesplama\AlanHesplama\obj\Debug\AlanHesplama.csproj.CoreCompileInputs.cache
+C:\Users\UMUT TÜRK\Desktop\banka\AlanHesplama\AlanHesplama\obj\Debug\AlanHesplama.exe
+C:\Users\UMUT TÜRK\Desktop\banka\AlanHesplama\AlanHesplama\obj\Debug\AlanHesplama.pdb
